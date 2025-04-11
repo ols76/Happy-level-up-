@@ -54,8 +54,9 @@
   <button onclick="nextSlide()">Next</button>
 
   <script>
+    
     const files = [
-      "GAThgnEbIAAHeCa.jpeg"
+      "GAThgnEbIAAHeCa.jpeg",
       "1732171a394fd22a3d5afb3b71535c39.jpg",
       "9236718622fdf8ea7c24794b6fd79fc1.jpg",
       "9c49bce0509c1c234de4076f23d0adf7.mp4",
